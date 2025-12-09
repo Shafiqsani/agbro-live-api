@@ -1,25 +1,25 @@
 {
     "status": "success",
-    "last_updated": "2025-12-09 10:25:20",
+    "last_updated": "2025-12-09 11:19:48",
     "source": "agbro.com",
     "data": [
         {
             "city": "Rawalpindi",
-            "price": "310",
+            "price": "305",
             "trend": "down",
             "change": "-5",
             "doc_rate": "120.5"
         },
         {
             "city": "Lahore",
-            "price": "300",
+            "price": "290",
             "trend": "down",
             "change": "-10",
             "doc_rate": "120.5"
         },
         {
             "city": "Faisalabad",
-            "price": "300",
+            "price": "290",
             "trend": "down",
             "change": "-10",
             "doc_rate": "120.5"
@@ -27,8 +27,8 @@
         {
             "city": "Karachi",
             "price": "346",
-            "trend": "up",
-            "change": "+6",
+            "trend": "stable",
+            "change": "",
             "doc_rate": "122.5"
         },
         {
