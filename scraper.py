@@ -54,8 +54,8 @@ def get_rates():
                     change_value = match_change.group(1)
 
                 # --- 4. OPEN & CLOSE (NEW!) ---
-                open_rate = "N/A"
-                close_rate = "N/A"
+                open_rate = "_"
+                close_rate = "_"
                 
                 # We search all paragraphs in the card for a pattern like "325 – 315"
                 # The site uses a special en-dash (–), so we check for both types of dashes.
@@ -113,3 +113,4 @@ def get_rates():
 
 if __name__ == "__main__":
     get_rates()
+
