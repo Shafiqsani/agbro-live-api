@@ -1,6 +1,6 @@
 {
     "status": "success",
-    "last_updated": "2025-12-09 17:20:50",
+    "last_updated": "2025-12-09 18:23:19",
     "source": "agbro.com",
     "data": [
         {
@@ -8,6 +8,8 @@
             "price": "305",
             "trend": "down",
             "change": "-5",
+            "open_rate": "320",
+            "close_rate": "300",
             "doc_rate": "120.5"
         },
         {
@@ -15,6 +17,8 @@
             "price": "290",
             "trend": "down",
             "change": "-10",
+            "open_rate": "290",
+            "close_rate": "285",
             "doc_rate": "120.5"
         },
         {
@@ -22,6 +26,8 @@
             "price": "290",
             "trend": "down",
             "change": "-10",
+            "open_rate": "290",
+            "close_rate": "285",
             "doc_rate": "120.5"
         },
         {
@@ -29,6 +35,8 @@
             "price": "346",
             "trend": "stable",
             "change": "",
+            "open_rate": "N/A",
+            "close_rate": "N/A",
             "doc_rate": "122.5"
         },
         {
@@ -36,6 +44,8 @@
             "price": "310",
             "trend": "stable",
             "change": "",
+            "open_rate": "N/A",
+            "close_rate": "N/A",
             "doc_rate": "121.5"
         }
     ]
