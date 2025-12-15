@@ -1,43 +1,43 @@
 {
     "status": "success",
-    "last_updated": "2025-12-15 05:26:19",
+    "last_updated": "2025-12-15 06:36:06",
     "source": "agbro.com",
     "data": [
         {
             "city": "Rawalpindi",
-            "price": "300",
-            "trend": "down",
-            "change": "-10",
-            "open_rate": "315",
-            "close_rate": "307",
-            "doc_rate": "60.5"
+            "price": "320",
+            "trend": "up",
+            "change": "+15",
+            "open_rate": "335",
+            "close_rate": "335",
+            "doc_rate": "70.5"
         },
         {
             "city": "Lahore",
-            "price": "290",
-            "trend": "down",
-            "change": "-10",
-            "open_rate": "290",
-            "close_rate": "300",
-            "doc_rate": "60.5"
+            "price": "300",
+            "trend": "up",
+            "change": "+10",
+            "open_rate": "315",
+            "close_rate": "310",
+            "doc_rate": "70.5"
         },
         {
             "city": "Faisalabad",
-            "price": "290",
-            "trend": "down",
-            "change": "-11",
-            "open_rate": "285",
-            "close_rate": "280",
-            "doc_rate": "60.5"
+            "price": "312",
+            "trend": "up",
+            "change": "+12",
+            "open_rate": "310",
+            "close_rate": "305",
+            "doc_rate": "70.5"
         },
         {
             "city": "Karachi",
-            "price": "336",
-            "trend": "down",
-            "change": "-14",
+            "price": "350",
+            "trend": "up",
+            "change": "+10",
             "open_rate": "_",
             "close_rate": "_",
-            "doc_rate": "62.5"
+            "doc_rate": "72.5"
         },
         {
             "city": "Multan",
@@ -46,7 +46,7 @@
             "change": "",
             "open_rate": "_",
             "close_rate": "_",
-            "doc_rate": "61.5"
+            "doc_rate": "71.5"
         }
     ]
 }
