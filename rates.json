@@ -1,47 +1,47 @@
 {
     "status": "success",
-    "last_updated": "2026-01-21 13:46:19",
+    "last_updated": "2026-01-21 14:31:24",
     "source": "agbro.com",
     "data": [
         {
             "city": "Rawalpindi",
-            "price": "365",
+            "price": "340",
             "trend": "down",
-            "change": "-20",
-            "open_rate": "380",
-            "close_rate": "335",
+            "change": "-25",
+            "open_rate": "355",
+            "close_rate": "345",
             "doc_rate": "30.5"
         },
         {
             "city": "Lahore",
-            "price": "360",
+            "price": "340",
             "trend": "down",
-            "change": "-15",
-            "open_rate": "350",
-            "close_rate": "340",
+            "change": "-20",
+            "open_rate": "330",
+            "close_rate": "320",
             "doc_rate": "30.5"
         },
         {
             "city": "Faisalabad",
-            "price": "365",
+            "price": "345",
             "trend": "down",
-            "change": "-10",
-            "open_rate": "355",
-            "close_rate": "340",
+            "change": "-20",
+            "open_rate": "335",
+            "close_rate": "320",
             "doc_rate": "40.5"
         },
         {
             "city": "Karachi",
             "price": "346",
-            "trend": "down",
-            "change": "-20",
+            "trend": "stable",
+            "change": "",
             "open_rate": "_",
             "close_rate": "_",
             "doc_rate": "32.5"
         },
         {
             "city": "Multan",
-            "price": "350",
+            "price": "335",
             "trend": "down",
             "change": "-15",
             "open_rate": "_",
