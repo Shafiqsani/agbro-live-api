@@ -1,1 +1,52 @@
-{"status": "error", "message": "HTTPSConnectionPool(host='www.agbro.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.agbro.com', port=443): Failed to resolve 'www.agbro.com' ([Errno -3] Temporary failure in name resolution)\"))"}
+{
+    "status": "success",
+    "last_updated": "2026-02-13 18:53:39",
+    "source": "agbro.com",
+    "data": [
+        {
+            "city": "Rawalpindi",
+            "price": "330",
+            "trend": "down",
+            "change": "-5",
+            "open_rate": "345",
+            "close_rate": "345",
+            "doc_rate": "45.5"
+        },
+        {
+            "city": "Lahore",
+            "price": "335",
+            "trend": "stable",
+            "change": "",
+            "open_rate": "360",
+            "close_rate": "370",
+            "doc_rate": "45.5"
+        },
+        {
+            "city": "Faisalabad",
+            "price": "340",
+            "trend": "stable",
+            "change": "",
+            "open_rate": "335",
+            "close_rate": "325",
+            "doc_rate": "45.5"
+        },
+        {
+            "city": "Karachi",
+            "price": "296",
+            "trend": "stable",
+            "change": "",
+            "open_rate": "_",
+            "close_rate": "_",
+            "doc_rate": "47.5"
+        },
+        {
+            "city": "Multan",
+            "price": "305",
+            "trend": "stable",
+            "change": "",
+            "open_rate": "_",
+            "close_rate": "_",
+            "doc_rate": "46.5"
+        }
+    ]
+}
