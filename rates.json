@@ -1,11 +1,11 @@
 {
     "status": "success",
-    "last_updated": "2026-03-31 07:15:15",
+    "last_updated": "2026-03-31 09:00:34",
     "source": "agbro.com",
     "data": [
         {
             "city": "Rawalpindi",
-            "price": "390",
+            "price": "385",
             "trend": "up",
             "change": "+15",
             "open_rate": "400",
