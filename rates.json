@@ -1,52 +1,52 @@
 {
     "status": "success",
-    "last_updated": "2026-04-09 09:08:47",
+    "last_updated": "2026-04-09 10:59:04",
     "source": "agbro.com",
     "data": [
         {
             "city": "Rawalpindi",
-            "price": "405",
+            "price": "395",
             "trend": "up",
             "change": "+10",
-            "open_rate": "420",
-            "close_rate": "410",
-            "doc_rate": "62.5"
+            "open_rate": "415",
+            "close_rate": "415",
+            "doc_rate": "110.5"
         },
         {
             "city": "Lahore",
-            "price": "385",
+            "price": "395",
             "trend": "stable",
             "change": "",
-            "open_rate": "395",
-            "close_rate": "400",
-            "doc_rate": "62.5"
+            "open_rate": "400",
+            "close_rate": "390",
+            "doc_rate": "110.5"
         },
         {
             "city": "Faisalabad",
-            "price": "410",
+            "price": "397",
             "trend": "up",
-            "change": "+15",
-            "open_rate": "405",
-            "close_rate": "395",
-            "doc_rate": "62.5"
+            "change": "+7",
+            "open_rate": "390",
+            "close_rate": "380",
+            "doc_rate": "110.5"
         },
         {
             "city": "Karachi",
-            "price": "400",
-            "trend": "stable",
-            "change": "",
+            "price": "390",
+            "trend": "up",
+            "change": "+10",
             "open_rate": "_",
             "close_rate": "_",
-            "doc_rate": "64.5"
+            "doc_rate": "112.5"
         },
         {
             "city": "Multan",
-            "price": "385",
+            "price": "380",
             "trend": "up",
-            "change": "+7",
+            "change": "+10",
             "open_rate": "_",
             "close_rate": "_",
-            "doc_rate": "63.5"
+            "doc_rate": "111.5"
         }
     ]
 }
