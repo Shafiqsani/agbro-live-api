@@ -6,47 +6,47 @@
         {
             "city": "Rawalpindi",
             "price": "330",
-            "trend": "up",
-            "change": "+5",
+            "trend": "stable",
+            "change": "",
             "open_rate": "345",
-            "close_rate": "320",
-            "doc_rate": "92.5"
+            "close_rate": "325",
+            "doc_rate": "94.5"
         },
         {
             "city": "Lahore",
-            "price": "315",
+            "price": "325",
             "trend": "up",
-            "change": "+5",
+            "change": "+10",
             "open_rate": "320",
             "close_rate": "310",
-            "doc_rate": "92.5"
+            "doc_rate": "94.5"
         },
         {
             "city": "Faisalabad",
-            "price": "325",
+            "price": "328",
             "trend": "up",
-            "change": "+18",
+            "change": "+3",
             "open_rate": "320",
             "close_rate": "315",
-            "doc_rate": "92.5"
+            "doc_rate": "94.5"
         },
         {
             "city": "Karachi",
-            "price": "330",
-            "trend": "down",
-            "change": "-6",
+            "price": "340",
+            "trend": "up",
+            "change": "+10",
             "open_rate": "_",
             "close_rate": "_",
-            "doc_rate": "92.5"
+            "doc_rate": "94.5"
         },
         {
             "city": "Multan",
-            "price": "300",
-            "trend": "stable",
-            "change": "",
+            "price": "305",
+            "trend": "up",
+            "change": "+5",
             "open_rate": "_",
             "close_rate": "_",
-            "doc_rate": "92.5"
+            "doc_rate": "94.5"
         }
     ]
 }
