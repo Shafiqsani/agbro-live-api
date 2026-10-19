@@ -1,52 +1,52 @@
 {
     "status": "success",
-    "last_updated": "2026-10-16 11:08:50",
+    "last_updated": "2026-10-19 10:08:50",
     "source": "agbro.com",
     "data": [
         {
             "city": "Rawalpindi",
-            "price": "340",
-            "trend": "stable",
-            "change": "",
-            "open_rate": "355",
-            "close_rate": "355",
-            "doc_rate": "112.5"
+            "price": "365",
+            "trend": "up",
+            "change": "+15",
+            "open_rate": "380",
+            "close_rate": "370",
+            "doc_rate": "125.5"
         },
         {
             "city": "Lahore",
-            "price": "330",
-            "trend": "up",
-            "change": "+10",
-            "open_rate": "330",
-            "close_rate": "335",
-            "doc_rate": "112.5"
+            "price": "355",
+            "trend": "stable",
+            "change": "",
+            "open_rate": "350",
+            "close_rate": "340",
+            "doc_rate": "125.5"
         },
         {
             "city": "Faisalabad",
-            "price": "337",
-            "trend": "up",
-            "change": "+7",
-            "open_rate": "335",
-            "close_rate": "330",
-            "doc_rate": "112.5"
+            "price": "360",
+            "trend": "stable",
+            "change": "",
+            "open_rate": "355",
+            "close_rate": "345",
+            "doc_rate": "125.5"
         },
         {
             "city": "Karachi",
-            "price": "380",
-            "trend": "up",
-            "change": "+4",
-            "open_rate": "_",
-            "close_rate": "_",
-            "doc_rate": "114.5"
-        },
-        {
-            "city": "Multan",
-            "price": "330",
+            "price": "440",
             "trend": "stable",
             "change": "",
             "open_rate": "_",
             "close_rate": "_",
-            "doc_rate": "113.5"
+            "doc_rate": "127.5"
+        },
+        {
+            "city": "Multan",
+            "price": "375",
+            "trend": "up",
+            "change": "+10",
+            "open_rate": "_",
+            "close_rate": "_",
+            "doc_rate": "126.5"
         }
     ]
 }
