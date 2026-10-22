@@ -5,48 +5,48 @@
     "data": [
         {
             "city": "Rawalpindi",
-            "price": "365",
+            "price": "385",
             "trend": "up",
-            "change": "+5",
-            "open_rate": "380",
-            "close_rate": "367",
-            "doc_rate": "135.5"
+            "change": "+20",
+            "open_rate": "400",
+            "close_rate": "382",
+            "doc_rate": "145.5"
         },
         {
             "city": "Lahore",
-            "price": "365",
+            "price": "375",
             "trend": "up",
-            "change": "+25",
-            "open_rate": "365",
+            "change": "+10",
+            "open_rate": "370",
             "close_rate": "360",
-            "doc_rate": "135.5"
+            "doc_rate": "145.5"
         },
         {
             "city": "Faisalabad",
-            "price": "370",
+            "price": "380",
             "trend": "up",
             "change": "+10",
-            "open_rate": "365",
-            "close_rate": "355",
-            "doc_rate": "135.5"
+            "open_rate": "375",
+            "close_rate": "370",
+            "doc_rate": "145.5"
         },
         {
             "city": "Karachi",
-            "price": "440",
-            "trend": "stable",
-            "change": "",
+            "price": "446",
+            "trend": "up",
+            "change": "+6",
             "open_rate": "_",
             "close_rate": "_",
-            "doc_rate": "137.5"
+            "doc_rate": "147.5"
         },
         {
             "city": "Multan",
-            "price": "380",
-            "trend": "stable",
-            "change": "",
+            "price": "385",
+            "trend": "up",
+            "change": "+5",
             "open_rate": "_",
             "close_rate": "_",
-            "doc_rate": "136.5"
+            "doc_rate": "146.5"
         }
     ]
 }
