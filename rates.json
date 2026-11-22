@@ -1,6 +1,6 @@
 {
     "status": "success",
-    "last_updated": "2026-11-21 11:00:50",
+    "last_updated": "2026-11-22 11:00:50",
     "source": "agbro.com",
     "data": [
         {
@@ -8,8 +8,8 @@
             "price": "410",
             "trend": "stable",
             "change": "",
-            "open_rate": "425",
-            "close_rate": "420",
+            "open_rate": "415",
+            "close_rate": "400",
             "doc_rate": "155.5"
         },
         {
@@ -17,8 +17,8 @@
             "price": "400",
             "trend": "stable",
             "change": "",
-            "open_rate": "395",
-            "close_rate": "390",
+            "open_rate": "405",
+            "close_rate": "400",
             "doc_rate": "155.5"
         },
         {
@@ -27,7 +27,7 @@
             "trend": "stable",
             "change": "",
             "open_rate": "400",
-            "close_rate": "395",
+            "close_rate": "390",
             "doc_rate": "155.5"
         },
         {
@@ -41,9 +41,9 @@
         },
         {
             "city": "Multan",
-            "price": "378",
-            "trend": "stable",
-            "change": "",
+            "price": "380",
+            "trend": "up",
+            "change": "+2",
             "open_rate": "_",
             "close_rate": "_",
             "doc_rate": "155.5"
