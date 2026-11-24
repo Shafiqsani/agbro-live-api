@@ -1,52 +1,52 @@
 {
     "status": "success",
-    "last_updated": "2026-11-22 11:00:50",
+    "last_updated": "2026-11-24 11:00:50",
     "source": "agbro.com",
     "data": [
         {
             "city": "Rawalpindi",
-            "price": "410",
-            "trend": "stable",
-            "change": "",
-            "open_rate": "415",
-            "close_rate": "400",
-            "doc_rate": "155.5"
+            "price": "415",
+            "trend": "up",
+            "change": "+10",
+            "open_rate": "430",
+            "close_rate": "420",
+            "doc_rate": "160.5"
         },
         {
             "city": "Lahore",
-            "price": "400",
-            "trend": "stable",
-            "change": "",
+            "price": "405",
+            "trend": "up",
+            "change": "+5",
             "open_rate": "405",
-            "close_rate": "400",
-            "doc_rate": "155.5"
+            "close_rate": "395",
+            "doc_rate": "160.5"
         },
         {
             "city": "Faisalabad",
-            "price": "405",
-            "trend": "stable",
-            "change": "",
-            "open_rate": "400",
-            "close_rate": "390",
-            "doc_rate": "155.5"
+            "price": "415",
+            "trend": "up",
+            "change": "+10",
+            "open_rate": "410",
+            "close_rate": "405",
+            "doc_rate": "160.5"
         },
         {
             "city": "Karachi",
-            "price": "384",
-            "trend": "stable",
-            "change": "",
+            "price": "404",
+            "trend": "up",
+            "change": "+10",
             "open_rate": "_",
             "close_rate": "_",
-            "doc_rate": "155.5"
+            "doc_rate": "160.5"
         },
         {
             "city": "Multan",
-            "price": "380",
+            "price": "383",
             "trend": "up",
-            "change": "+2",
+            "change": "+3",
             "open_rate": "_",
             "close_rate": "_",
-            "doc_rate": "155.5"
+            "doc_rate": "160.5"
         }
     ]
 }
